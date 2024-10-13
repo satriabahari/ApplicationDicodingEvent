@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ApplicationDicodingEvent</string>
+    <string name="tv_item_event">Sampai di sini, setidaknya Anda sudah bisa menampilkan data dari API ke dalam RecyclerView dengan loading seperti berikut</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_activity_home">Home Activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_register">Register</string>
+    <string name="title_information">Informasi</string>
+    <string name="detail_name">The Blueprint for Android App Success: Expert Advice and Insights</string>
+    <string name="detail_summary">
+        IDCamp x Dicoding Live 2023 edisi kesembilan ini akan kupas tuntas seputar tips dan trik di dunia Android Developer.
+    </string>
+    <string name="detail_description">Pengalaman dari ahli sangat penting untuk sukses dalam membuat aplikasi Android terbaik karena mereka telah melalui berbagai tantangan dan keberhasilan yang memberikan wawasan berharga tentang praktik terbaik dan kesalahan yang harus dihindari.</string>
+    <string name="detail_begin_time">2024–06–11 19:00:00</string>
+    <string name="detail_quota">3000</string>
+    <string name="title_remaining_quota">Sisa Kuota</string>
+    <string name="detail_owner_name">Satria Bahari</string>
+    <string name="title_owner_name">Penyelenggara Acara</string>
+    <string name="title_row_home">Satria Bahari</string>
+    <string name="description_row_home">Pengalaman dari ahli sangat penting untuk sukses dalam membuat aplikasi Android terbaik karena mereka telah melalui berbagai tantangan dan keberhasilan yang memberikan wawasan berharga tentang praktik terbaik dan kesalahan yang harus dihindari. Ahli industri memiliki pemahaman mendalam tentang teknologi terbaru, tren pasar, dan kebutuhan pengguna, yang memungkinkan mereka memberikan saran strategis yang terbukti efektif.</string>
+    <string name="title_upcoming_event">Upcoming Event</string>
+    <string name="title_finished_event">Finished Event</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="image">Image</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources >
+    <style name="Base.Theme.ApplicationDicodingEvent" parent="Theme.Material3.DayNight">
+    </style>
+</resources>
